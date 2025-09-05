@@ -1,6 +1,8 @@
 # Personal Website
 
-Hi, I'm Gregor and I am a Fullstack Developer and Coding Teacher. I write and deliver courses for Scrimba!
+👋 Hi, I'm Gregor and I am a Fullstack Developer and Coding Teacher.
+
+I write and deliver courses for Scrimba! 🎓
 
 ## About Scrimba
 
