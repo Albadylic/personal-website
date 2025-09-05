@@ -1,11 +1,7 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Personal Website
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+Hi, I'm Gregor and I am a Fullstack Developer and Coding Teacher. I write and deliver courses for Scrimba!
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
