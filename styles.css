@@ -38,20 +38,21 @@ a:hover{
     border: 1px dotted blue;
 }
 
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
+.projects {
+    display: flex;
+    margin: 20px;
+}
 
-/*
-Final challenge:
-Download the code to your local computer and place it
-in a folder called "business-card"
-*/
+.project {
+    width: 400px;
+    margin: 5px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background: #023047;
+    color: #fefae0;
+    border: 6px solid #ffb703;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
